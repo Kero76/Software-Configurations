@@ -1,0 +1,33 @@
+{
+    // Files configuration
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 30000,
+    "files.associations": {
+        "*.jsr": "html"
+    },
+    "files.insertFinalNewline": true,
+
+    // Editors configuration
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "400",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.cursorStyle": "line" ,
+    "editor.cursorBlinking": "smooth",
+
+    // Terminal 
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+
+    // Explorer
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.sortOrder": "type",
+
+    // Workbench 
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.highlightModifiedTabs": true
+}
