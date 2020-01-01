@@ -1,0 +1,15 @@
+{
+	"Log": {
+		"scope": "javascript, typescrip",
+		"prefix": ["cl"],
+		"body": "console.log('$0');",
+		"description": "Log output to console."
+	},
+
+	"Log interpolation": {
+		"scope": "javascript, typescript",
+		"prefix": ["cli", "cslint"],
+		"body": "console.log(`$0`);",
+		"description": "Print a stack in console with string interpolation."
+	}
+}

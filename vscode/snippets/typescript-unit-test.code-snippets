@@ -1,0 +1,25 @@
+{
+	"Block describe-it": {
+		"scope": "javascript, typescript",
+		"prefix": ["mocha-descit", "mocha-desc", "mocha-desc-it"],
+		"body": [
+			"describe('$1', () => {",
+				"\tit('$2', () => {",
+					"\t\t$0",
+				"\t});",
+			"});"
+		],
+		"description": "describe-it block for 'mocha' library."
+	},
+
+	"Block it": {
+		"scope": "javascript, typescript",
+		"prefix": ["mocha-it"],
+		"body": [
+			"it('$1', () => {",
+				"\t$0",
+			"});"
+		],
+		"description": "it block for 'mocha' library"
+	}
+}
