@@ -28,6 +28,6 @@
     "explorer.sortOrder": "type",
 
     // Workbench 
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Default Dark+",
     "workbench.editor.highlightModifiedTabs": true
 }
