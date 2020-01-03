@@ -3,7 +3,8 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 30000,
     "files.associations": {
-        "*.jsr": "html"
+        "*.jsr": "html",
+        ".nycrc": "json"
     },
     "files.insertFinalNewline": true,
 
