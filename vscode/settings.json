@@ -1,34 +1,41 @@
 {
-    // Files configuration
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
-    "files.associations": {
-        "*.jsr": "html",
-        ".nycrc": "json"
-    },
-    "files.insertFinalNewline": true,
+  // Files configuration
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.associations": {
+    "*.jsr": "html",
+    ".nycrc": "json"
+  },
+  "files.insertFinalNewline": true,
 
-    // Editors configuration
-    "editor.renderWhitespace": "all",
-    "editor.fontSize": 14,
-    "editor.fontWeight": "400",
-    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": true
-    },
-    "editor.cursorStyle": "line" ,
-    "editor.cursorBlinking": "smooth",
+  // Editors configuration
+  "editor.renderWhitespace": "all",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "400",
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.rulers": [120, 160],
 
-    // Terminal 
-    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  // Terminal
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
 
-    // Explorer
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false,
-    "explorer.sortOrder": "type",
+  // Explorer
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.sortOrder": "type",
 
-    // Workbench 
-    "workbench.colorTheme": "Default Dark+",
-    "workbench.editor.highlightModifiedTabs": true
+  // Workbench
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.editor.highlightModifiedTabs": true,
+
+  // Extensions
+  "bracket-pair-colorizer-2.showBracketsInGutter": true
 }
