@@ -1,7 +1,7 @@
 {
     // Files configuration
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 30000,
+    "files.autoSaveDelay": 1000,
     "files.associations": {
         "*.jsr": "html",
         ".nycrc": "json"
