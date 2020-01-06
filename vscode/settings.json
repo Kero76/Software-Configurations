@@ -37,5 +37,26 @@
   "workbench.editor.highlightModifiedTabs": true,
 
   // Extensions
-  "bracket-pair-colorizer-2.showBracketsInGutter": true
+  "bracket-pair-colorizer-2.showBracketsInGutter": true,
+  "todo-tree.highlights.enabled": true,
+  "todo-tree.regex.regexCaseSensitive": false,
+  "todo-tree.general.statusBarClickBehaviour": "reveal",
+  "todo-tree.general.statusBar": "tags",
+  "todo-tree.highlights.defaultHighlight": {
+    "icon": "file-directory",
+    "type": "text-and-comment",
+    "foreground": "white",
+    "background": "red",
+    "opacity": 50,
+    "iconColour": "white"
+  },
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "icon": "check"
+    },
+    "FIXME": {
+      "icon": "alert",
+      "iconColour": "yellow"
+    }
+  }
 }
