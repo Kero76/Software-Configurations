@@ -5,3 +5,7 @@ code --install-extension davidanson.vscode-markdownlint
 code --install-extension eg2.vscode-npm-script
 code --install-extension coenraads.bracket-pair-colorizer-2
 code --install-extension esbenp.prettier-vscode
+code --install-extension chrmarti.regex
+code --install-extension alefragnani.bookmarks
+code --install-extension gruntfuggly.todo-tree
+code --install-extension streetsidesoftware.code-spell-checker
