@@ -38,6 +38,7 @@
 
   // Extensions
   "bracket-pair-colorizer-2.showBracketsInGutter": true,
+
   "todo-tree.highlights.enabled": true,
   "todo-tree.regex.regexCaseSensitive": false,
   "todo-tree.general.statusBarClickBehaviour": "reveal",
