@@ -27,3 +27,4 @@ code --install-extension davidanson.vscode-markdownlint
 
 ## JavaScript and cie 
 code --install-extension eg2.vscode-npm-script
+code --install-extension dbaeumer.vscode-eslint

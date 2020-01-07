@@ -59,5 +59,12 @@
       "icon": "alert",
       "iconColour": "yellow"
     }
-  }
+  },
+
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
 }
