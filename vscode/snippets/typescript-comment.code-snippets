@@ -1,0 +1,17 @@
+{
+	"Header class comments": {
+		"scope": "javascript,typescript",
+		"prefix": ["comment-class", "commentclass"],
+		"body": [
+			"/**",
+			" * $0",
+			" *",
+			" * @author Nicolas GILLE <nic.gille@gmail.com>",
+			" * @since $1",
+			" * @version $2",
+			" * @license $3",
+			" */"
+		],
+		"description": "Comment header class."
+	}
+}
