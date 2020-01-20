@@ -28,3 +28,9 @@ code --install-extension davidanson.vscode-markdownlint
 ## JavaScript and cie 
 code --install-extension eg2.vscode-npm-script
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension octref.vetur # VueJs framework 
+
+## Html & Css
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.auto-close-tag
+ 
